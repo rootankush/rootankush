@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Stay Working Stay Foolish
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rootankush&count_private=true&theme=tokyonight&showicons=true)]()
 
 
