@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning how to not fucking procrastinate 🥰
 - 💞️ I’m looking to collaborate on fun and challenging projects
 - 📫 How to reach me Drop a comment here on GitHub or Message me on twitter.
+
+<div id="header" align="center">
+  <img src="https://i.imgur.com/RtsYtRt.png" width="100"/>
+</div>
   
 ### Stay Hungry. Stay Foolish.
 <p>
