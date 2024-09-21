@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on fun and challenging projects
 - 📫 How to reach me Drop a comment here on GitHub or Message me on twitter.
 
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/bc/cc/f7/bcccf79aa7b3f3dbc585fbcb6df6a76e.jpg" width="100"/>
-</div>
   
 ### Projects
 <p>
