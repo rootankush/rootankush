@@ -8,8 +8,6 @@
   <img src="https://i.pinimg.com/564x/bc/cc/f7/bcccf79aa7b3f3dbc585fbcb6df6a76e.jpg" width="100"/>
 </div>
   
-### Stay Hungry. Stay Foolish.
-
 ### Projects
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rootankush&show_icons=true&hide_border=false&&count_private=true&theme=tokyonight&include_all_commits=true"/>
