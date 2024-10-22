@@ -1,1 +1,4 @@
-               ![](https://github.com/rootankush/rootankush/blob/main/bruh.gif)
+<p align="center">
+  ![](https://github.com/rootankush/rootankush/blob/main/bruh.gif)
+</p>
+
