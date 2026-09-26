@@ -1,10 +1,30 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rootankush/rootankush/main/kobini.gif" alt="Kobeni Coding Vibe" width="500" />
 </p>
+<p align="center">
+  Just me, my laptop, and me bashing my head on the keyboard trying to make things work
+</p>
 
-Just me, my laptop, and me bashing my head on the keyboard trying to make things work
+<h2 align="center">
+  🧠 About Me
+</h2>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Hey there! I'm Ankush</h3>
+      <p>I'm a computer science student diving deep into software development.</p>
+      <p>By day, I'm mastering web dev and exploring other tech fields like playing with my friends arduino board or reading articles about how i am going to lose my job to AI</p>
+      <p>When I'm not building web applications, you can usually find me reading manga or watching anime.</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://pin.it/bF1OHoGES" width="220">
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tech Stack & Tools
+<h2 align="center">
+   🛠️ Tech Stack & Tools
+</h2>
 Things I have used in my projects:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -18,7 +38,10 @@ Things I have used in my projects:
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
-## 🌐 Socials
+<h2 align="center">
+  🌐 Socials
+</h2>
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/root_ankush)&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rootankush)
 
