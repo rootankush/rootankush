@@ -10,14 +10,20 @@
 </h2>
 <table>
   <tr>
-    <td width="50%">
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/rootankush/rootankush/main/brain.gif" width="300">
+    </td>
+    <td width="55%">
       <h3>Hey there! I'm Ankush</h3>
       <p>I'm a computer science student diving deep into software development.</p>
       <p>By day, I'm mastering web dev and exploring other tech fields like playing with my friends arduino board or reading articles about how i am going to lose my job to AI</p>
       <p>When I'm not building web applications, you can usually find me reading manga or watching anime.</p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://pin.it/bF1OHoGES" width="220">
+      <ul>
+      <li>💻 <b>Primary OS:</b> Arch Linux (i3 / GNOME)</li>
+      <li>🌱 <b>Currently learning:</b> Advanced React, Vite, and TypeScript</li>
+      <li>🎯 <b>Goal:</b> Build robust web apps</li>
+      <li>🧩 <b>Hobbies:</b> Reading Manga and Watching Anime</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -25,7 +31,8 @@
 <h2 align="center">
    🛠️ Tech Stack & Tools
 </h2>
-Things I have used in my projects:
+
+### Things I have used in my projects:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
